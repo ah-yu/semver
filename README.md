@@ -1,5 +1,7 @@
-#buji/semver
+# @buji/semver
+
 [![Build Status](https://travis-ci.com/ah-yu/semver.svg?token=6VsD32U8ZGNpu2Nd2bZq&branch=master)](https://travis-ci.com/ah-yu/semver)
+[![codecov](https://codecov.io/gh/ah-yu/semver/branch/master/graph/badge.svg?token=BkcUDCBCw0)](https://codecov.io/gh/ah-yu/semver)
 
 ## Install
 
