@@ -1,0 +1,10 @@
+{
+  "extends": "@buji/tsconfig",
+  "compilerOptions": {
+    // Override certain options on a project-by-project basis.
+
+    "baseUrl": ".",
+    "outDir": "dist"
+  },
+  "exclude": ["node_modules/", "build/", "scripts/", "dist/", "test/"]
+}

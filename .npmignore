@@ -1,0 +1,19 @@
+## source
+**/*.ts
+*.ts
+
+# definitions
+!**/*.d.ts
+!*.d.ts
+
+# configuration
+package-lock.json
+tslint.json
+tsconfig.json
+.prettierrc
+scripts
+
+.gitignore
+# https://github.com/APSL/react-native-version-number/issues/13
+# .git not be allowed in node_modules
+.git
